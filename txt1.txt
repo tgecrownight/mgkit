@@ -1,4 +1,2 @@
 
-  ^:
-
-  dnkjbkd
+  ^:git commit -m "Initial commit."kjbkd
